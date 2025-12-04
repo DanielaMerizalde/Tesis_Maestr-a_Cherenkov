@@ -2,3 +2,4 @@
 *.log
 logs/
 .DS_Store
+OPTICS/chiapas_parte_1.2.json
